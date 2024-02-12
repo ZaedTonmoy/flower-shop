@@ -1,0 +1,22 @@
+#header {
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.header-div {
+    display: flex;
+    gap: 140px;
+}
+
+.header-heading {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 708px;
+    margin-bottom: 0px;
+}
