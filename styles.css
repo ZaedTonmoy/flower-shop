@@ -20,3 +20,33 @@
     width: 708px;
     margin-bottom: 0px;
 }
+
+#header-text {
+    margin-left: 240px;
+    padding-top: 196px;
+}
+
+#header-image {
+    padding-top: 50px;
+    margin-right: 150px;
+}
+
+.button {
+    margin-top: 0px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+}
+
+.button-text {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
