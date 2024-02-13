@@ -98,3 +98,10 @@
     text-align: center;
     margin-bottom: 49px;
 }
+
+#three-flowers {
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    gap: 24px;
+}
