@@ -237,3 +237,11 @@
 .hot-image{
     margin-top: 100px;
 }
+
+.four-flowers-container{
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    gap: 24px;
+    margin-bottom: 120px;
+}
