@@ -254,6 +254,7 @@
     height: 397px;
     width: 1440px;
     padding-top: 95px;
+    padding-bottom: 120px;
 }
 
 .deals-header{
@@ -313,6 +314,42 @@
     padding-left: 20px;
     padding-bottom: 20px;
 }
+
+.footer{
+    height: 449px;
+    background-color: black;
+}
+
+.footer-heading{
+    text-align: center;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 150px;
+    margin-bottom: 27px;
+}
+
+.footer-pink{
+    color: #E55473;
+}
+.white-text{
+    color: white;
+}
+
+.footer-sub{
+    color: white;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 
 
 
