@@ -247,7 +247,18 @@
 }
 
 .get-deals-container{
-    display: flex;
     margin-left: 240px;
     margin-right: 240px;
+    background-image: url('flower-asset/rectang-9.png');
+    background-repeat: no-repeat;
+    height: 397px;
+    width: 1440px;
+}
+
+.deals-header{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
 }
