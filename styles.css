@@ -245,3 +245,9 @@
     gap: 24px;
     margin-bottom: 120px;
 }
+
+.get-deals-container{
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+}
