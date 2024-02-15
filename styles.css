@@ -350,6 +350,16 @@
     margin-bottom: 0px;
 }
 
-
+.footer-rights{
+    color: rgba(255, 255, 255, 0.354);
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
 
 
